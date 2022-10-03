@@ -1,0 +1,71 @@
+Temat: Wprowadzenie do aplikacji webowych.
+
+Korzystając z Internetu proszę odpowiedzieć na poniższe pytania:
+
+1. Co to jest framework?
+Szkielet budowy aplikacji, opisuje on metody i strukture działania aplikacji
+
+2. Jakie są zady i walety korzystanie z frameworków?
+Zalety:
+
+    efektywność – tworzenie aplikacji z wykorzystaniem frameworków wymaga od programisty mniejszej ilości kodu do napisania,
+    poprawa jakości kodu – ponieważ frameworki są projektowane z myślą o elastyczności, mają one dobrą wewnętrzną organizację i logikę, którą narzucają aplikacji,
+    niezawodność – frameworki jako szkielety aplikacji są dobrze zaprojektowane i przetestowane.
+
+Wady:
+
+    złożoność – ze względu na swoją elastyczność oraz wykorzystywanie zaawansowanych koncepcji, opanowanie frameworków nie jest łatwe,
+    wydajność – często ceną za elastyczną budowę jest niższa wydajność tworzonego oprogramowania.
+
+
+3. Co to jest Frontend?
+Aplikacja używana przez klienta komunikująca się z backendem
+
+4. Co to jest Backend?
+Serwer łączący się i przekazujący dane frontendowi
+
+5. Wymień kilka przykładów framework wykorzystywanych do tworzenia aplikacji internetowych.
+Django
+Angular
+React.js
+Ruby on Rails
+
+6. Omów krótko następujące frameworki/biblioteki:
+    a. Angular - Bazowany na Typescripcie jest opensource, stworzony przez Google, jego cechy: renderowanie po stronie serwera, modularność i zorientowanie na komponenty,
+    b. React.js -  biblioteka języka programowania JavaScript, która wykorzystywana jest do tworzenia interfejsów graficznych aplikacji internetowych. Została stworzona przez Jordana Walke, programistę Facebooka, a zainspirowana przez rozszerzenie języka PHP – XHP wykorzystywana do tworzenia aplikacji single page
+    c. jQuery -  lekka biblioteka programistyczna dla języka JavaScript, ułatwiająca korzystanie z JavaScriptu (w tym manipulację drzewem DOM). Kosztem niewielkiego spadku wydajności w stosunku do profesjonalnie napisanego kodu w niewspomaganym JavaScripcie pozwala osiągnąć interesujące efekty animacji, dodać dynamiczne zmiany strony, wykonać zapytania AJAX. Większość wtyczek i skryptów opartych na jQuery działa na stronach nie wymagając zmian w kodzie HTML (np. zamienia klasyczne galerie złożone z miniatur linkujących do obrazków w dynamiczną galerię). 
+    d. Django -  wolny i otwarty framework przeznaczony do tworzenia aplikacji internetowych, napisany w Pythonie. Powstał pod koniec 2003 roku
+    e. Ruby on Rails -  framework open source do szybkiego tworzenia aplikacji webowych. RoR został napisany w języku Ruby z użyciem architektury MVC
+7. Co to jest reguła DRY?
+ - niepowtarzanie się
+8. Jakie są zady i walety stosowania aplikacji webowych?
+walety
+
+    Dostępność
+    Niezależność od systemu operacyjnego i parametrów komputera. Wystarczy przeglądarka internetowa.
+    Nie musisz niczego instalować
+    Po prostu logujesz się i działasz. I zawsze masz aktualną wersję.
+    Nie ma znaczenia gdzie jesteś i jakiego komputera używasz
+    Ponieważ nie występuje konieczność instalowania czegokolwiek - Twój komputer nie musi być w żaden sposób przygotowany. Nieważne, czy jesteś w biurze, w domu, czy na urlopie. Nieważne, czy masz ze sobą swój komputer, czy też tylko go na chwilę pożyczyłeś. Jeśli masz przeglądarkę i Internet - logujesz się i możesz pracować.
+
+zady
+
+    Mniejsza szybkość działania niż aplikacji okienkowych,
+    Nie ma cudów - narysowanie przez przeglądarkę interfejsu i komunikacja z serwerem zawsze trwa. Aplikacje webowe są wolniejsze od okienkowych odpowiedników. Mniej sprawdzają się także np. skróty klawiaturowe.
+    Z reguły nieco mniej wydajny interfejs
+    Mimo iż obecnie dostępnych jest wiele kontrolek dla aplikacji webowych - jednak z reguły są one mniej wygodne w obsłudze niż tradycyjne "okienka".
+    Brak możliwości bezpośredniej komunikacji z drukarką i innymi urządzeniami
+    Możesz np. wygenerować plik PDF, podejrzeć go w przeglądarce albo pobrać - i dopiero wtedy klikasz Drukuj.
+    Większe wymagania odnośnie zaplecza
+    Aby aplikacja webowa mogła działać - nie wystarczy już sam komputer. Potrzebny jest serwer aplikacji, który ją dostarcza.
+
+
+
+9. Co to jest serwer WWW? Wymień znane Ci aplikacje, dzięki którym można przygotować serwer WWW.
+Serwer obsługujący zapytania na standardach protokołu HTTP
+- Apache
+- ngnix
+- Xampp (  uzywa apache )
+
+
+10. Omów dlaczego C++ jest DUUUUŻO lepszy od C#.
